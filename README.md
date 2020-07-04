@@ -1,3 +1,3 @@
-**Editor**
-![Screeshot](images\editor1.png)
-![Screeshot](images\editor2.png)
+#Editor
+![](Images/editor1.jpg)
+![](Images/editor2.jpg)
